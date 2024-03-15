@@ -1,3 +1,5 @@
+![058efa2ae3aa1d881d33daca2db63fd6](https://github.com/marwenrebah/Dragon-Repeller/assets/133456502/f3f7b082-5078-4714-b436-8468aeac4acc)
+
 # 🐉 Dragon Repeller - Text-Based RPG Game
 
 Dragon Repeller is a text-based RPG game implemented in JavaScript. It allows players to navigate through various locations, buy items, fight monsters, and manage their stats like health, gold, and experience points.
