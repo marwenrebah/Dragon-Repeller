@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/marwenrebah/Flutter_Shop/blob/main/assets/banner.png" alt="banner!"/>
-</div>
-
 # 🐉 Dragon Repeller - Text-Based RPG Game
 
 Dragon Repeller is a text-based RPG game implemented in JavaScript. It allows players to navigate through various locations, buy items, fight monsters, and manage their stats like health, gold, and experience points.
