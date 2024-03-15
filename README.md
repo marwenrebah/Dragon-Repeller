@@ -1,4 +1,4 @@
-![058efa2ae3aa1d881d33daca2db63fd6](https://github.com/marwenrebah/Dragon-Repeller/assets/133456502/f3f7b082-5078-4714-b436-8468aeac4acc)
+![7cd43409197922c560cb5df4d6001cb2](https://github.com/marwenrebah/Dragon-Repeller/assets/133456502/ed7dafe6-c065-4b9a-b1e0-bf7bf3c35d5a)
 
 # 🐉 Dragon Repeller - Text-Based RPG Game
 
